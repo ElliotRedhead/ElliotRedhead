@@ -19,3 +19,9 @@
 ![React](https://img.shields.io/static/v1?label=React&style=for-the-badge&message=16.3&color=61dafb&logo=react)
 ![Flask](https://img.shields.io/static/v1?label=Flask&style=for-the-badge&message=1.1.1&color=181717&logo=flask)
 ![Django](https://img.shields.io/static/v1?label=Django&style=for-the-badge&message=3.0.0&color=092E20&logo=django)
+
+---
+
+:snake: Diving into backends & data with Python (Django/Flask & Machine Learning)  
+⚛️ Exploring the frontend with React (Hooked!)  
+🐳 Docker Rookieuser
