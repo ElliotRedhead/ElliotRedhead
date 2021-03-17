@@ -25,3 +25,5 @@
 :snake: Diving into backends & data with Python (Django/Flask & Machine Learning)  
 ⚛️ Exploring the frontend with React (Hooked!)  
 🐳 Docker Rookieuser
+
+🛠 Aspiring Fullstack Developer 
